@@ -3,7 +3,7 @@
 <h1 align="center">👩‍💻 Hello, I'm YeoJin 👩‍💻</h1>
 <div align="center">
 
-<h3> 🌱 I’m currently learning Data Structure, Spring Boot3 </h3>
+<h3> 🌱 I’m currently learning 'Data Structure', 'Spring Boot3' </h3>
 
 <br/><br/>
 
