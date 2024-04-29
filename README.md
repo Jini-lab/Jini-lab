@@ -6,6 +6,7 @@
 🌱 I’m currently learning Data Structure, Spring Boot3
 
 
+  
 <h2 align="center">📚 Tech Stack 📚</h2>
 <p align="center"> 
   <h3> language </h3>
@@ -31,12 +32,17 @@
 </p>
 
 
+  
+
 <h2 align="center">👟 Profile 👟</h2>
 <h4 align="left"> 📌 을지대학교 의료IT학과 4학년 재학 중 (2020.3 ~ 현재) </h4>
 <h4 align="left"> 📌 포스코ICT와 함께하는 성남청년"AI"프리인턴십 2기 (2021.05 ~ 2021.08) </h4>
 <h4 align="left"> 📌 을지대학교 의료공학과에서 의료IT학과로 학과 전환 (2023.03) </h4>
 <h4 align="left"> 📌 을지대학교 멋쟁이사자처럼 백엔드 (2023.03 ~ 2023.12) </h4>
 
+
+
+   
 <h2 align="center">🌈 Follow Me 🌈</h2>
 <p align="center">
   <a href="https://velog.io/@chung0916/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@chung0916/posts"/></a>&nbsp
