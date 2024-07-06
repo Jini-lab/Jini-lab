@@ -32,6 +32,10 @@
 </p>
 
 <br/><br/>
+<!--  ![Jini-lab's github stats](https://github-readme-stats.vercel.app/api?username=Jini-lab) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jini-lab&layout=compact)
+
+<br/><br/>
 
 <h2 align="center">👟 Profile 👟</h2>
 <h4 align="left"> 📌 을지대학교 의료IT학과 4학년 재학 중 (2020.3 ~ 현재) </h4>
