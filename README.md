@@ -3,7 +3,7 @@
 <h1 align="center">👩‍💻 Hello, I'm YeoJin 👩‍💻</h1>
 <div align="center">
 
-<h3> 🌱 I’m currently learning 'Data Structure', 'Spring Boot3' </h3>
+<h3> 🌱 I’m currently learning 'Java', 'Spring' </h3>
 
 <br/><br/>
 
@@ -56,7 +56,8 @@
 <br/><br/>
 
 <h2 align="center">👟 Profile 👟</h2>
-<h4 align="left"> 📌 을지대학교 의료IT학과 졸업 (2020.3 ~ 2025.03) </h4>
+<h4 align="left"> 📌 패스트캠퍼스 데브캠프 : 남궁성의 백엔드 개발 3기 (2024.12 ~ 2025.06) </h4>
+<h4 align="left"> 📌 을지대학교 의료IT학과 졸업 (2020.03 ~ 2025.03) </h4>
 <h4 align="left"> 📌 코딩자율학습단 7기 (2024.03 ~ 2024.04) </h4>
 <h4 align="left"> 📌 을지대학교 멋쟁이사자처럼 백엔드 직군 (2023.03 ~ 2023.12) </h4>
 <h4 align="left"> 📌 을지대학교 의료공학과에서 의료IT학과로 학과 전환 (2023.03) </h4>
